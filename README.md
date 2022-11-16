@@ -1,7 +1,6 @@
-# File Preparation for SharePoint
+# File Preparation for SharePoint Project
 ## Project Summary
 Migrate Job and Estimate files from sub office NTFS drives to consolidate into SharePoint using Python Scripts and SharePoint Migration Tool.
-This was a real life work project!
 
 ## The Problem
 - Corp office has a shared drive (the "P" drive, Windows Server 2012 physical server) that is running out of space. Most of the job and corp data is hosted here since this is the corp office.
